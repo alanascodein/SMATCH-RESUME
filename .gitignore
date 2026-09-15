@@ -1,0 +1,46 @@
+# ---- Node / frontend ----
+node_modules/
+dist/
+dist-ssr/
+.vite/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Python / backend ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# ---- Env & secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- Build artifacts ----
+tsconfig.tsbuildinfo
+build/
+preview.out
+preview.err
+*.log
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.iml
+*.suo
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+Desktop.ini
