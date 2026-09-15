@@ -1,0 +1,12 @@
+Jordan Lee
+Senior Backend Engineer
+5+ years building and shipping backend services with Python, Django, and REST APIs.
+
+- Led a team of 4 engineers building a payments platform (fintech).
+- Designed and deployed REST APIs handling 50M requests/day on AWS EC2 and Lambda.
+- Managed PostgreSQL databases at scale and built ETL data pipelines.
+- Containerised services with Docker; automated CI/CD with GitHub Actions.
+- Implemented unit tests with pytest; shipped code every week in an Agile team.
+- Built event-driven microservices using Kafka and message queues.
+- Strong SQL and data warehouse skills (Redshift, BigQuery).
+- Presented technical architecture decisions to stakeholders across teams.

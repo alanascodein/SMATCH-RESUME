@@ -1,0 +1,20 @@
+Senior Backend Engineer — Payments Platform
+We are a fintech company building a high-scale payments platform and are looking for a senior engineer to own core services end to end.
+
+Must-haves:
+- Minimum 5 years of relevant industry experience
+- 5+ years of Python development with Django
+- Strong REST API design and implementation experience
+- Excellent SQL and PostgreSQL at scale
+- AWS experience on EC2 and Lambda
+- Docker containerisation and Kubernetes orchestration
+- Event-driven microservices with Kafka and message queues
+- CI/CD pipelines and automated deployments
+- Automated testing with pytest
+- Git and code review workflows
+
+Nice to have:
+- Fintech and payments domain knowledge
+- Experience leading or mentoring engineers
+- Strong communication for presenting technical decisions
+- Familiarity with data warehouses such as Redshift or BigQuery
